@@ -5,6 +5,7 @@
   font-weight: 300;
   src: url('../files/woff2/CiscoSansTTThin.woff2') format('woff2');
 }
+
 @font-face {
   font-family: 'Cisco Sans TT';
   font-style: oblique;
@@ -12,6 +13,7 @@
   font-weight: 300;
   src: url('../files/woff2/CiscoSansTTThinOblique.woff2') format('woff2');
 }
+
 @font-face {
   font-family: 'Cisco Sans TT';
   font-style: normal;
@@ -19,6 +21,7 @@
   font-weight: 300;
   src: url('../files/woff2/CiscoSansTTLight.woff2') format('woff2');
 }
+
 @font-face {
   font-family: 'Cisco Sans TT';
   font-style: oblique;
@@ -26,6 +29,7 @@
   font-weight: 300;
   src: url('../files/woff2/CiscoSansTTLightOblique.woff2') format('woff2');
 }
+
 @font-face {
   font-family: 'Cisco Sans TT';
   font-style: normal;
@@ -33,6 +37,7 @@
   font-weight: 400;
   src: url('../files/woff2/CiscoSansTTRegular.woff2') format('woff2');
 }
+
 @font-face {
   font-family: 'Cisco Sans TT';
   font-style: oblique;
@@ -40,6 +45,7 @@
   font-weight: 400;
   src: url('../files/woff2/CiscoSansTTRegularOblique.woff2') format('woff2');
 }
+
 @font-face {
   font-family: 'Cisco Sans TT';
   font-style: normal;
@@ -47,6 +53,7 @@
   font-weight: 500;
   src: url('../files/woff2/CiscoSansTT-Medium.woff2') format('woff2');
 }
+
 @font-face {
   font-family: 'Cisco Sans TT';
   font-style: normal;
@@ -54,6 +61,7 @@
   font-weight: 700;
   src: url('../files/woff2/CiscoSansTTBold.woff2') format('woff2');
 }
+
 @font-face {
   font-family: 'Cisco Sans TT';
   font-style: oblique;
@@ -61,6 +69,7 @@
   font-weight: 700;
   src: url('../files/woff2/CiscoSansTTBoldOblique.woff2') format('woff2');
 }
+
 @font-face {
   font-family: 'Cisco Sans TT';
   font-style: normal;
@@ -68,6 +77,7 @@
   font-weight: 900;
   src: url('../files/woff2/CiscoSansTTHeavy.woff2') format('woff2');
 }
+
 @font-face {
   font-family: 'Cisco Sans TT';
   font-style: oblique;
