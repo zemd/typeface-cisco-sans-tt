@@ -25,7 +25,6 @@ Original source: https://github.com/momentum-design/momentum-ui
 | 900 - Black                 | Yes           |
 | 900 - Black Oblique         | Yes           |
 
-
 ## License
 
 @zemd/typeface-cisco-sans-tt is released under the MIT license.
