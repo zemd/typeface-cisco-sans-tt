@@ -1,0 +1,31 @@
+{
+  "name": "@zemd/typeface-cisco-sans-tt",
+  "version": "0.0.0-development",
+  "description": "Self-host the Cisco Sans TT fonts in a neatly bundled NPM package.",
+  "type": "module",
+  "exports": {
+    "./styles/*": "./styles/*",
+    "./files/*": "./files/*"
+  },
+  "keywords": ["font", "font family", "cisco sans tt", "typeface"],
+  "author": "Dmytro Zelenetskyi <dmytro.zelenetskyi@gmail.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/zemd/typeface-cisco-sans-tt#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zemd/typeface-cisco-sans-tt.git"
+  },
+  "scripts": {
+    "semantic-release": "semantic-release --debug"
+  },
+  "devDependencies": {
+    "semantic-release": "^19.0.5"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com",
+    "access": "restricted"
+  },
+  "release": {
+    "branches": ["main"]
+  }
+}
